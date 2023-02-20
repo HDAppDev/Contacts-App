@@ -13,15 +13,15 @@ class App extends Component{
         "avatarURL": "http://localhost:5001/ryan.jpg"
       },
       {
-        "id": "ajay",
-        "name": "Ajay Sathe",
-        "email": "ajay.sathe@awesome.com",
+        "id": "niks",
+        "name": "Nikhil Sathe",
+        "email": "nikhil.sathe@awesome.com",
         "avatarURL": "http://localhost:5001/ryan.jpg"
       },
       {
-        "id": "ajay",
-        "name": "Ajay Sathe",
-        "email": "ajay.sathe@awesome.com",
+        "id": "vijay",
+        "name": "Vijay Sathe",
+        "email": "vijay.sathe@awesome.com",
         "avatarURL": "http://localhost:5001/ryan.jpg"
       }
     ]
