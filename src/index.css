@@ -65,7 +65,9 @@ body, app {
 
 .search-contacts {
   display: flex;
-  width: 73px;
+  width: 73%;
+  height: 60px;
+  margin-left: 50px;
   background: white;
   background-image: url('./icons/search.svg');
   background-position: 20px center;
