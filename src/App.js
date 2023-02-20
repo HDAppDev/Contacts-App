@@ -1,6 +1,6 @@
 import './App.css';
 import { Component } from 'react';
-import { ListContacts} from './ListContacts'
+import ListContacts from './ListContacts.js'
 
 
 class App extends Component{
